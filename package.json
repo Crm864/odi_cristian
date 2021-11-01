@@ -1,0 +1,8 @@
+{
+    "name": "Odisea",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Cristian",
+    "contributors": [],
+    "dependencies": {}
+}
